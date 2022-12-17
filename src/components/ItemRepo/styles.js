@@ -11,11 +11,15 @@ export const ItemContainer = styled.div`
     p {
         font-size:16px;
         color: #FAFAFA60;
-        margin-bottom:20px;
+        margin: 10px 0;
+    }
+    
+    a.verRepositorio {
+        color: #0080DD;
     }
 
     a.remover {
-        color: #FF0000;
+        color: #EE6060;
         margin-top:20px;
     }
 

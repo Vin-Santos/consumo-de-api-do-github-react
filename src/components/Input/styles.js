@@ -21,4 +21,7 @@ export const InputContainer = styled.div`
         font-size: 20px
     }
 
+    input:focus {
+        outline: 0;
+    }
 `
